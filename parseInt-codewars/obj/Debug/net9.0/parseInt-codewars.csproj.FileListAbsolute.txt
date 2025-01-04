@@ -1,0 +1,14 @@
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.AssemblyInfoInputs.cache
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.AssemblyInfo.cs
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.csproj.CoreCompileInputs.cache
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\bin\Debug\net9.0\parseInt-codewars.exe
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\bin\Debug\net9.0\parseInt-codewars.deps.json
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\bin\Debug\net9.0\parseInt-codewars.runtimeconfig.json
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\bin\Debug\net9.0\parseInt-codewars.dll
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\bin\Debug\net9.0\parseInt-codewars.pdb
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.dll
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\refint\parseInt-codewars.dll
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.pdb
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\parseInt-codewars.genruntimeconfig.cache
+C:\Users\Gogosh\RiderProjects\parseInt-codewars\parseInt-codewars\obj\Debug\net9.0\ref\parseInt-codewars.dll
